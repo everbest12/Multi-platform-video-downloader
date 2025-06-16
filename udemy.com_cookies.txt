@@ -1,0 +1,67 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.udemy.com	FALSE	/course/machine-learning-101-with-scikit-learn-and-stats-models	FALSE	0	viewedOuibounceModal	true
+.udemy.com	TRUE	/	TRUE	1781631988	__udmy_2_v57r	422e1ffc5e744be689c5ae0114996636
+www.udemy.com	FALSE	/	FALSE	1778317446	ud_firstvisit	2025-05-09T09:04:04.267546+00:00:1uDJeI:4uE9GPJEtSAqJFIMBHOu7k_TlZoY4iNliWWafV1X0mg
+.udemy.com	TRUE	/	FALSE	1781341447	__ssid	3ff6390c210e5e80d06702c73950167
+www.udemy.com	FALSE	/	TRUE	1773061447	dwndvc	ff95e62307d9760985713ee819aa857e3ee47e3ffb1ef3c9a7bb394c2a05a42f
+.udemy.com	TRUE	/	FALSE	1757529709	_fbp	fb.1.1746781452832.544604039807775095
+.udemy.com	TRUE	/	FALSE	1778317452	_yjsu_yjad	1746781452.e9339297-26ba-4ddd-b2bd-cfe44537bb19
+.udemy.com	TRUE	/	TRUE	1754557449	FPAU	1.1.469080695.1746781448
+.www.udemy.com	TRUE	/	TRUE	1781289690	__stripe_mid	c28ac8b7-4c64-4e47-a6a0-e7ced2121d39ca4b61
+www.udemy.com	FALSE	/	TRUE	1752313346	client_id	bd2565cb7b0c313f5e9bae44961e8db2
+www.udemy.com	FALSE	/	FALSE	1781257200	ud_locale	en_US
+www.udemy.com	FALSE	/	FALSE	1752343332	mute	0
+www.udemy.com	FALSE	/	TRUE	0	dwnjrn	48cae55fc504547f3000c03de48ef4578462fb47a28d8aae11c01f65dd2077e4
+www.udemy.com	FALSE	/	FALSE	1750358298	blisspoint_fpc	f0bb425c-7356-430a-b87b-8e501ce75d32
+www.udemy.com	FALSE	/	FALSE	0	viewedOuibounceModal	true
+www.udemy.com	FALSE	/	FALSE	0	last_searched_phrase	e48e767ece9d89e82f95a753c0654f0d
+www.udemy.com	FALSE	/	FALSE	0	query_session_identifier_id	NDJkYjk3NjEtMjgxYS00MD
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_brand	NGen_US
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_marketplace_country	NG
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_version	1
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_language	en
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_device	None
+www.udemy.com	FALSE	/	FALSE	1783794895	ki_s	239593%3A0.0.0.0.0
+.udemy.com	TRUE	/	FALSE	1783883154	_mkto_trk	id:273-CKQ-053&token:_mch-udemy.com-186136dffb25432ef3d63497820674e
+.udemy.com	TRUE	/	FALSE	1757099154	_gac_UA-12366301-2	1.1749323154.Cj0KCQjwxo_CBhDbARIsADWpDH75APxhemlRuSe7zH6t_BViFGAip-4emiibsG_G8Ho9of7MilYJg_0aAsGzEALw_wcB
+.udemy.com	TRUE	/	FALSE	1757099154	_gcl_aw	GCL.1749323154.Cj0KCQjwxo_CBhDbARIsADWpDH75APxhemlRuSe7zH6t_BViFGAip-4emiibsG_G8Ho9of7MilYJg_0aAsGzEALw_wcB
+.udemy.com	TRUE	/	FALSE	1757099154	_gcl_gs	2.1.k1$i1749323150$u101682770
+.udemy.com	TRUE	/	FALSE	1783883160	_ga_SKDWKFL1MN	GS2.1.s1749323154$o1$g0$t1749323159$j55$l0$h0
+www.udemy.com	FALSE	/	FALSE	1751980343	sidebar_content_1754098	default
+.udemy.com	TRUE	/	FALSE	1783334785	_uetvid	938def002cb411f089b98f81c5070720|1slrfpw|1749638785570|2|1|bat.bing.com/p/insights/c/k
+www.udemy.com	FALSE	/	TRUE	1781203288	csrftoken	NFEYoo0TD8fXggLcganijA1CEK4i53ll
+.udemy.com	TRUE	/	FALSE	1781278145	ab.storage.sessionId.5cefca91-d218-4b04-8bdd-c8876ec1908d	%7B%22g%22%3A%22796f5ff4-7ae7-acd7-e239-0bc38870fe21%22%2C%22e%22%3A1749723005460%2C%22c%22%3A1749721205461%2C%22l%22%3A1749721205461%7D
+.udemy.com	TRUE	/	FALSE	1781278145	ab.storage.deviceId.5cefca91-d218-4b04-8bdd-c8876ec1908d	%7B%22g%22%3A%22dd5c7695-2690-3006-1702-c7d9b7ada90c%22%2C%22c%22%3A1748284136007%2C%22l%22%3A1749721205463%7D
+.udemy.com	TRUE	/	FALSE	1781278145	ab.storage.userId.5cefca91-d218-4b04-8bdd-c8876ec1908d	%7B%22g%22%3A%22267867348%22%2C%22c%22%3A1748606967845%2C%22l%22%3A1749721205464%7D
+www.udemy.com	FALSE	/	TRUE	1752313346	access_token	"ACzN7+MFiRbAf/OmSJUkLvSta3rU/y0Le7NtQs2vpfY:cpuImYrd5dmWIHgOeiiyghL2lxHDCptiRbgDQuFka9E"
+www.udemy.com	FALSE	/	FALSE	1781257346	ud_last_auth_information	"{\"backend\": \"udemy-passwordless\"\054 \"suggested_user_email\": \"opensourceproject@gocitygroup.org\"\054 \"suggested_user_name\": \"Gocity\"\054 \"suggested_user_avatar\": \"https://img-c.udemycdn.com/user/50x50/117364888_e53d_2.jpg\"}:1uPeS2:-h7zoBDrWzHLpN1uh1q7uqJ2UKVje2svf8pm8YvSDFI"
+www.udemy.com	FALSE	/	FALSE	1781257347	ud_credit_last_seen	None
+www.udemy.com	FALSE	/	TRUE	1752313347	dj_session_id	flx61xw2mqbc7cpbdf6sps94qben850p
+.udemy.com	TRUE	/	FALSE	1754557448	_gcl_au	1.1.469080695.1746781448.1290281792.1749719643.1749721413
+www.udemy.com	FALSE	/	FALSE	1752329832	playbackspeed	1.25
+www.udemy.com	FALSE	/	FALSE	1752332100	dashboard_tab_2283598	questions
+www.udemy.com	FALSE	/	FALSE	1752343332	volume	1
+www.udemy.com	FALSE	/	FALSE	0	ud_cmp_ctp_vc	27
+www.udemy.com	FALSE	/	FALSE	0	ud_cmp_ctp_vclts	1749752349
+.www.udemy.com	TRUE	/	FALSE	1781289493	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+12+2025+19%3A38%3A13+GMT%2B0100+(West+Africa+Standard+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=035957fe-147e-4c75-8cfb-3ac71102d2d6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0003%3A1%2CC0005%3A1%2CC0004%3A1%2CC0001%3A1%2CC0002%3A1&AwaitingReconsent=false
+www.udemy.com	FALSE	/	FALSE	1784313500	ki_t	1746781453864%3B1749712328087%3B1749753500013%3B17%3B96
+www.udemy.com	FALSE	/	FALSE	1784313500	ki_r	
+.udemy.com	TRUE	/	TRUE	1757529500	_rdt_uuid	1746781452692.d89d6d07-d862-4d6a-b6d6-5a5be742749d
+.udemy.com	TRUE	/	FALSE	1783917500	cto_bundle	2UmJBF9KNWV0Q2dUWUhmS1UyWmx4bnV3aTRrSndHWHVXZlZmMjRjMmVzdW0lMkZRRkRCNEQ4c0hRU2t0UVYya1ZnRHNRWGY2WSUyQmQ5MiUyQmM1UWZRYlZWbTF6ayUyRllSV01zcUtCQUclMkJqU3BQcktqbkczY1Y0N0J4NEhMMnFGTkJBWUY5TzhBZWxDMFM5R21maFglMkJVcVRianN5U2FpRGclM0QlM0Q
+.udemy.com	TRUE	/	FALSE	1784313514	_ga	GA1.2.1157458191.1746781450
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_user	""
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_logged_in	0
+www.udemy.com	FALSE	/	FALSE	1781447331	muxData	sid=f3e36599-1c39-4096-a91c-0070c97392ad&sst=1749911342532&sex=1749912863230&mux_viewer_id=e8974f44-a9bd-452e-b6bb-f1cee071e618&msn=0.4329265281810448
+.udemy.com	TRUE	/	FALSE	1784524336	_ga_7YMFEFLR6Q	GS2.1.s1749964336$o47$g0$t1749964336$j60$l0$h0
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_price_country	NG
+www.udemy.com	FALSE	/	FALSE	1752679150	evi	"3@AsuOHFs8LCj8Bmyj8X0XCUGs40Tb5nTHipxGCfzU69tOR_CAEr5D5YY9"
+www.udemy.com	FALSE	/	FALSE	1784647150	ud_rule_vars	eJxljtFqAyEQRX9l8bXNMro6Vr9lQYwZW2kaqc7mJeTfY2gKLYF5meGeOfciOLZ3YjqEc-mFa_NaKZI5J0NW6z3hm0smEkipnUNc0KdaPwsJP4nLKnJpnX_YcIhM67ivQoEyOxjjJnAetAeYjbUO5QvAWFbxOlLHOFCuW_oI3GLOJYVet5YonGMrcX98fCunzm1Lo9wfLo1kp4eZy9c_M-6kupv14hc7g8VF45O50fdG_bn2gHGSxkvnJcxKSUD9C1_F9QZdfFtT:1uRBc6:cyFubS-xbMCRZ_hhlp48rvgwyP9xyqty-ftwLD7WlVI
+www.udemy.com	FALSE	/	TRUE	1750173550	ud_cache_release	1b025f2b316924d01b29
+.udemy.com	TRUE	/	TRUE	1750097610	__cf_bm	eRCu5.tmJtGtNWCuuZ8CqBDyXf5QkJhsuM3b1K_vxb8-1750095810-1.0.1.1-hIjnzIQPu3L76rtdhmv3y6oIJiwWk3riSjzIU5AdtY6xqb2SvxZjMm67AiY2rozyVUBsesLOSPNfANBAzWD7kfrSN1RVxSVNwZuTRctrt1U
+.udemy.com	TRUE	/	TRUE	0	__cfruid	f6d196453e23fb94ca2cd773cb4c7c6c2207aa9f-1750095810
+.udemy.com	TRUE	/	TRUE	1750097785	eventing_session_id	OTlmODU4ZjEtZWFhMS00ND-1750097785640
+www.udemy.com	FALSE	/	FALSE	1750096892	_dd_s	rum=0&expire=1750096885638
+.udemy.com	TRUE	/	TRUE	1781289494	cf_clearance	ZM2FGNMxVndHDCGQn.ZEZJFjqADquh8cqvEV3bJLeYc-1749753493-1.2.1.1-LqPHut8Te41IDpumjOpVEaI4EErQxMff5B980nVgMkwrPwF7Ph4xi816coJSSeRdeW6A2vjnsqLYnMtQ6YIbK_uLtEBwt8qQ8ZXWLVSis1PjIKiLqG8eNvWIfjNe9bSL5nS6xnc1KVicJ2mjCorG7zSB2Llis0kp1pZUr7kl0yTDW.XDr30RbAMde5FpI1N4jgxB16V..qEta9LnUdWrmf372iiGwpyV7XS4uPQd66D7r3BH0drO0yxzbBwye6rRyf3gbKxeZFDGdu7BzBaLbm6gPRI2mRo7TZZktqtSMZr5V7VaTRmKX0qDHJHGTQ8r.I9vU5IiBzqjp7r0.jl2iFBmzNZhwjQk.d6s8lhAZ9c
